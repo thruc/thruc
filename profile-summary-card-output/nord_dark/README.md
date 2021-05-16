@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Tomo-Horiuchi/Tomo-Horiuchi/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
-```
-
-    

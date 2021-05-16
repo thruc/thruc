@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Tomo-Horiuchi/Tomo-Horiuchi/main/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
